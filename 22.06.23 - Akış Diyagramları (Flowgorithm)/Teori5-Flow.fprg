@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 11:00:58 &#214;&#214;"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMDo0ODo1MiDDlsOWOzI0MTc="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMTowMDo1OCDDlsOWOzM7MjUyMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="suSicakligi" type="Real" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen su s&#305;cakl&#305;&#287;&#305;n&#305; girin.&quot;" newline="True"/>
+            <input variable="suSicakligi"/>
+            <if expression="suSicakligi &lt; 100">
+                <then>
+                    <if expression="suSicakligi &gt; 0">
+                        <then>
+                            <output expression="suSicakligi &amp; &quot; derecede su s&#305;v&#305; haldedir.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="suSicakligi == 0">
+                                <then>
+                                    <output expression="suSicakligi &amp; &quot; derecede su kat&#305; ve s&#305;v&#305; olarak ge&#231;i&#351; halindedir.&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <output expression="suSicakligi &amp; &quot; derecede su kat&#305; haldedir.&quot;" newline="True"/>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <if expression="suSicakligi == 100">
+                        <then>
+                            <output expression="suSicakligi &amp; &quot; derecede su s&#305;v&#305; ve buhar ge&#231;i&#351; halindedir.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="suSicakligi &amp; &quot; derecede su buhar haldedir.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

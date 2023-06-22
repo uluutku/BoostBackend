@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 12:03:37 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMTo1NDozOCDDlsOWOzI0MTk="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMjowMzozNyDDllM7MTsyMzkw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen bir say&#305; girin: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <while expression="sayi &gt; 1000 or sayi &lt; 100">
+                <output expression="&quot;L&#252;tfen 3 basamakl&#305; bir say&#305; girin ve tekrar deneyin :&quot;" newline="True"/>
+                <input variable="sayi"/>
+            </while>
+            <declare name="birler, onlar, yuzler" type="Integer" array="False" size=""/>
+            <assign variable="yuzler" expression="(sayi / 100)"/>
+            <assign variable="onlar" expression="(sayi - yuzler * 100) / 10"/>
+            <assign variable="birler" expression="sayi - yuzler * 100 - onlar * 10"/>
+            <output expression="&quot;Say&#305;: &quot; &amp; sayi &amp; &quot; Y&#252;zler basama&#287;&#305;: &quot; &amp; yuzler &amp; &quot; Onlar basama&#287;&#305; : &quot; &amp; onlar &amp; &quot; Birler basama&#287;&#305; :&quot; &amp; birler" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

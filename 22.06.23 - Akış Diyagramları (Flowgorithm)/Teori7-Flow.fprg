@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 12:42:25 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMToxMjowMSDDlsOWOzI0MDM="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMjo0MjoyNSDDllM7MTA7MjQzOA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="islem" type="String" array="False" size=""/>
+            <output expression="(&quot;Toplama = T&quot;) &amp;&#13;&#10;(&quot; &#199;&#305;karma = C&quot;) &amp;&#13;&#10;(&quot; &#199;arpma = X&quot;) &amp;&#13;&#10;(&quot; B&#246;lme = B&quot;)" newline="True"/>
+            <output expression="(&quot;Yap&#305;lacak i&#351;lemi girin: &quot;)" newline="True"/>
+            <input variable="islem"/>
+            <while expression="islem != &quot;T&quot; &amp;&amp; islem != &quot;C&quot; &amp;&amp; islem != &quot;X&quot; &amp;&amp; islem != &quot;B&quot; &amp;&amp; islem != &quot;t&quot; &amp;&amp; islem != &quot;c&quot; &amp;&amp; islem != &quot;x&quot; &amp;&amp; islem != &quot;b&quot;">
+                <output expression="&quot;L&#252;tfen i&#351;lemi kontrol edip tekrar girin: &quot;" newline="True"/>
+                <input variable="islem"/>
+            </while>
+            <declare name="sayi1, sayi2" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen say&#305; 1 i girin: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;L&#252;tfen say&#305; 2 yi girin: &quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <declare name="sonuc" type="Real" array="False" size=""/>
+            <if expression="islem == &quot;T&quot; or islem == &quot;t&quot;">
+                <then>
+                    <assign variable="sonuc" expression="sayi1 + sayi2"/>
+                </then>
+                <else>
+                    <if expression="islem == &quot;C&quot; or islem == &quot;c&quot;">
+                        <then>
+                            <assign variable="sonuc" expression="sayi1 - sayi2"/>
+                        </then>
+                        <else>
+                            <if expression="islem == &quot;X&quot; or islem == &quot;x&quot;">
+                                <then>
+                                    <assign variable="sonuc" expression="sayi1 * sayi2"/>
+                                </then>
+                                <else>
+                                    <if expression="islem == &quot;B&quot; or islem == &quot;b&quot;">
+                                        <then>
+                                            <if expression="sayi2 == 0">
+                                                <then>
+                                                    <while expression="sayi2==0">
+                                                        <output expression="&quot;0 a b&#246;lme i&#351;lemi tan&#305;ms&#305;zd&#305;r. Say&#305; 2 yi tekrar girin: &quot;" newline="True"/>
+                                                        <input variable="sayi2"/>
+                                                    </while>
+                                                </then>
+                                                <else/>
+                                            </if>
+                                            <assign variable="sonuc" expression="sayi1 / sayi2"/>
+                                        </then>
+                                        <else/>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <output expression="&quot;Sonu&#231; : &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

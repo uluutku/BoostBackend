@@ -1,0 +1,13 @@
+Soru 9: Öğrenci notunu hesaplayıp geçtiniz veya kaldınız yazan algoritma.
+(Vize: %30 , Final:%70 , Geçme notu = 50)
+
+1. Başla
+
+1. Kullanıcıdan (vize) ve (final) notlarını al
+
+2. notort = vize*0.3 + final*0.7
+
+3. eğer, notort >= 50 ise, ekrana yazdır: ("Geçtiniz.")
+	değil ise yazdır: ("kaldınız.")
+	
+4. bitir

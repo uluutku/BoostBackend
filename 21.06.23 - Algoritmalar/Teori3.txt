@@ -1,0 +1,17 @@
+Soru: Kullanıcıdan alınan bir tam sayının karesini ve küpünü hesaplayarak ekrana yazdıran algoritma.
+
+1. Başla
+
+2. Kullanıcıdan bir tam sayı al (sayi1)
+
+3. Sayı tam sayı ise, adım 4 e geç
+	Değil ise, ekrana yazdır: "Lütfen tam sayı girin." ve adım 2 ye dön.
+
+4. kare = sayi1 * sayi1
+
+5. kup = kare * sayi1
+
+6. Ekrana yazdır: ("Sayının karesi: ", kare)
+7. Ekrana yazdır: ("Sayının küpü: ", kup)
+
+8. Bitir

@@ -1,0 +1,19 @@
+Soru: 20 Kişilik bir takımın yaşları girilecektir. Yaşı 18-25 aralığındaki kişilerin sayısını bulup ekranda gösteren algoritmayı yazınız.
+(18 ve 25 Dahil)
+
+1.Adım: Başla
+
+2.Adım: sayac = 1, kisiSayisi = 0
+
+3.Adım: Eger sayac <= 20 ise, 
+					a. Kullanıcının yaşını sor. (yas)
+					b. Eğer, yas >= 18 ve yas <= 25 ise, sayac += 1, kisiSayisi +=1
+					   Değilse, sayac += 1
+					c. Adım 3 ye dön.
+
+5.Adım: Ekrana yazdır: ("Belirlenen yaş aralığındaki kişi sayısı: " (kisiSayisi))
+ 
+6.Adım: Bitir
+
+
+

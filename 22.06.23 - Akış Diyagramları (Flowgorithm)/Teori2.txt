@@ -1,0 +1,13 @@
+Kullanıcıdan alınan 5 tam sayının ortalamasını alıp ekrana yazdıran algoritma.
+
+1. Başla
+
+2. Kullanıcıdan sayı al (sayi1)
+3. Kullanıcıdan sayı al (sayi2)
+4. Kullanıcıdan sayı al (sayi3)
+5. Kullanıcıdan sayı al (sayi4)
+6. Kullanıcıdan sayı al (sayi5)
+
+7. sonuc = (sayi1 + sayi2 + sayi3 + sayi4 + sayi5 ) / 5
+
+8. Ekrana yazdır: ("Sonuç :" , sonuc)

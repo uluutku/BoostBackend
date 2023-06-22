@@ -1,0 +1,16 @@
+Soru: Kullanıcıdan alınan suyun sıcaklığı bilgisine göre hangi fazda olduğunu ekrana yazan algoritma.
+
+1. Adım: Başla
+
+2. Adım: Kullanıcıdan suyun sıcaklığı bilgisini al. (suSicakligi)
+
+3. Adım: Eğer değer sayısal ise 4. Adıma geç
+		Değil ise, Ekrana yazdır ("Lütfen sayısal değer girin.") ve adım 2 ye dön.
+
+4. Adım: Eğer suSicakligi < 0 ise, Ekrana yazdır: ("Katı halde.")
+		 Eğer suSicakligi > 0 ve suSicakligi < 100 ise, Ekrana yazdır: ("Sıvı halde.")
+		 Eğer suSicakligi > 100 ise, Ekrana yazdır: ("Gaz halde.")
+		 Değil ise, Ekrana yazdır: ("Geçiş halinde.")
+
+5. Adım: Bitir
+

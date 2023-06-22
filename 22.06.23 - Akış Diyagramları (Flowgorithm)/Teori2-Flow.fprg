@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 10:32:48 &#214;&#214;"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMDoxNjowNiDDlsOWOzI0MTE="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMDozMjo0OCDDlsOWOzI7MjUyNA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305;1 i girin&quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <declare name="sayi2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305;2 yi girin&quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <declare name="sayi3" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305;3 &#252; girin&quot;" newline="True"/>
+            <input variable="sayi3"/>
+            <declare name="sayi4" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305; 4&#252; girin&quot;" newline="True"/>
+            <input variable="sayi4"/>
+            <declare name="sayi5" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305;5i girin&quot;" newline="True"/>
+            <input variable="sayi5"/>
+            <declare name="sonuc" type="Real" array="False" size=""/>
+            <assign variable="sonuc" expression="(sayi1 + sayi2 + sayi3 + sayi4 + sayi5 ) / 5"/>
+            <output expression="&quot;Sonu&#231;: &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

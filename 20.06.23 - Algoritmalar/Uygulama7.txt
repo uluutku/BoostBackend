@@ -1,0 +1,16 @@
+Soru 7 : Kullanıcıdan alınan n adet sayının ortalamasını alan algoritmayı yazınız.
+
+1. Başla
+
+2. Kullanıcıdan kaç adet sayı girileceğini al (girilecekAdet)
+
+3. Kullanıcıdan bir sayı al: (sayi)
+
+4. (toplam = toplam + sayi), (girilenAdet = girilenAdet + 1) //toplam 'a alınan sayıyı ekle ve girilenAdet'i 1 arttır.
+
+5. Eğer, girilenAdet < girilecekAdet ise, adım 3 e dön.
+	Değil ise adım 6 ya geç.
+	
+6. Ekrana yazdır: "Girilen sayıların ortalaması: (toplam / girilecekAdet)" 
+
+7. Bitir

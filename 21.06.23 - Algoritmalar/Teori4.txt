@@ -1,0 +1,11 @@
+Soru: Kullanıcıdan alınan Fahrenayt cinsinden sıcaklık değerininin Celcius cinsine dönüştürülmesini sağlayan ve ekrana yazdıran algoritma.
+
+1. Adım: Başla
+
+2. Adım: Kullanıcıdan Fahrenayt değerini al. (fahrenayt)
+
+3. Adım: celcius = (fahrenayt-32)/1.8
+
+4. Adım: Ekrana yazdır ("Celcius karşılığı :", celcius)
+
+5. Adım: Bitir

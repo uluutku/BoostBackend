@@ -1,0 +1,20 @@
+Soru1 : Kullanıcıdan alınan iki tam sayıdan hangisinin büyük olduğunu gösteren algoritmayı giriniz...
+
+1. Başla
+
+2. Kullanıcıdan (sayi1) birinci sayıyı al.
+
+3. Eğer sayi1 tam sayi ise, adım 4 e geç
+	Değil ise, ekrana yazdır: "Lütfen tam sayı giriniz!" ve Adım 3 e dön. 
+	
+4. Kullanıcıdan (sayi2) ikinci sayıyı al.
+	
+5. Eğer sayi2 tam sayi ise, adım 6 ya geç
+	Değil ise, ekrana yazdır: "Lütfen tam sayı giriniz!" ve Adım 4 e dön. 
+	
+6. Eğer, (sayi1 > sayi2) ise, ekrana yazdır: (sayi1) daha büyüktür.
+	Eğer, (sayi1 = sayi2) ise, ekrana yazdır: Sayılar eşittir.
+	Değil ise, ekrana yazdır: " (sayi2) daha büyüktür.
+	
+7. Bitir
+

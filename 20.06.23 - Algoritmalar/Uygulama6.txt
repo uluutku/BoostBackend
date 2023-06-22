@@ -1,0 +1,12 @@
+Soru 6: Kullanıcıdan alınan tamsayının çift veya tek olduğunu ekrana yazdıran algoritmayı giriniz.
+
+1. Başla
+
+2. Adım: Kullanıcıdan bir sayı al (sayi)
+
+3. Adım: bolum = sayi / 2
+
+4. Adım: Eğer, bolum tam sayi ise, ekrana yazdır: "Sayı çift."	
+		Değilse, ekrana yazdır: "Sayı tek."
+		
+Bitir.

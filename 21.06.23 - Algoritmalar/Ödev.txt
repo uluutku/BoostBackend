@@ -1,0 +1,36 @@
+Ödev 
+
+Soru1 : 1 ile 100 arasındaki asal sayıları bulup ekrana yazdıran algoritma.
+
+1. Adım: Başla
+
+2. Adım: sayac = 2, payda = 2 , bolenSayisi = 0
+
+3. Adım: Eğer sayac <= 100 ise,
+				a. Eğer, sayac % payda == 0 ise, bolenSayisi += 1
+				b. payda += 1
+				c. Eğer sayac != payda ise, adım a ya dön.
+				   Değilse adım d ye geç.
+				d. Eğer bolenSayisi == 1 ise, ekrana yazdır: (sayac, "Bir asal sayıdır.")
+				e. sayac += 1 ve adım 3 dön.
+
+4. Adım: Bitir.
+
+----------------------------------------
+					
+Soru2 : Hayattan bir aktiviteyi algoritmalaştırın. (Çay demlemek vb.)
+
+1. Başla
+
+2. Çaydanlığın altına su koy
+3. Ocağın altını yak
+4. Çaydanlığı yaktığın ocağa koy.
+5. Suyun sıcaklığını kontrol et. Eğer, su kaynamamışsa 1 dakika bekle ve adım 5 e dön.
+					Değilse, adım 6 ya geç.
+	
+6. Çaydanlığın demliğine çay poşeti ekle.
+7. Demliği dolduracak kadar kaynamış suyu demliğe ekle.
+9. Ocağın altını kıs.
+8. Çayın hazır olduğunu kontrol et. Eğer, hazır değilse 1 dakika bekle ve adım 8 e dön.
+
+9. Bitir

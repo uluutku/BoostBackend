@@ -1,0 +1,13 @@
+Soru5: Kullanıcıdan bir kenar uzunluğu alınan karenin çevresini ve alanını hesaplayan algoritma.
+
+1. Başla
+
+2. Kullanıcıdan karenin bir kenar uzunluğunu al (kenar)
+
+3. cevre = 4 * kenar
+
+4. alan = kenar * kenar
+
+5. ekrana yazdır: Çevre: cevre, Alan: alan
+
+6. Bitir

@@ -1,0 +1,29 @@
+Soru 4: Kullanıcının girdiği iki sayıyı yer değiştirerek kullanıcıya gösteren algoritmayı yazınız
+
+1. Başla
+
+2. Kullanıcıdan birinci sayıyı al (sayi1)
+
+3. Kullanıcıdan ikinci sayıyı al (sayi2)
+
+4. gecici değişkenine sayi1 i ata
+
+5. sayi1 değişkenine sayi 2 yi ata
+
+6. sayi2 değişkenine gecici yi ata
+
+7. Ekrana yazdır: Sayı1: sayi1, Sayı2: sayi2
+
+5. Bitir
+
+----------------
+
+1. Başla
+
+2. Kullanıcıdan birinci sayıyı al (sayi1)
+
+3. Kullanıcıdan ikinci sayıyı al (sayi2)
+
+4. Ekrana yazdır: Birinci sayı: sayi2, İkinci sayı: sayi1
+
+5. Bitir

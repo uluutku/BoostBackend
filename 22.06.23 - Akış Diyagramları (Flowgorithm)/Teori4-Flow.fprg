@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 10:48:32 &#214;&#214;"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMDo0NToyNiDDlsOWOzI0MTU="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjsxMDo0ODozMiDDlsOWOzE7MjUyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="fahrenayt, celsius" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen Fahrenayt de&#287;erini girin: &quot;" newline="True"/>
+            <input variable="fahrenayt"/>
+            <assign variable="celsius" expression="(fahrenayt-32)/1.8"/>
+            <output expression="fahrenayt &amp; &quot; Fahrenayt kar&#351;&#305;l&#305;&#287;&#305; &quot; &amp; celsius &amp; &quot;  Celsiustur.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

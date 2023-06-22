@@ -1,0 +1,20 @@
+Klavyeden girilen 3 basamaklı bir tam sayıyı basamak değerlerine ayıran ve her bir basamak değerini ekrana yazdıran algoritma.
+
+Örnek: Girilen sayı 420 olsun.
+Ekran çıktısı: Yüzler basamağı: 4
+				Onlar Basamağı: 2
+				Birler Basamağı: 0
+				
+1.Adım: Başla
+2.Adım: Kullanıcıdan sayıyı al. (sayi)
+
+3.Adım: sayi Tam sayı ise ve sayi >= 100  ve sayi < 1000 ise, 4. adıma geç
+		Değil ise, ekrana yazdır: ("Lütfen üç basamaklı bir tam sayı giriniz.") ve adım 2 ye dön.
+
+4.Adım: yuzler = sayi // 100, (100 e böl ve kalansız kısmını al.)
+5.Adım: onlar = (sayi - yuzler * 100) // 10 (10 a böl ve kalansız kısmını al.)
+6.Adım: birler = (sayi - yuzler - onlar)
+
+7.Adım: = ekrana yazdır:  ("Yüzler Basamağı: ", yuzler, "Onlar Basamağı: ", onlar, "Birler Basamağı: ", birler)
+
+8.Adım: = Bitir

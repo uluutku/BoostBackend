@@ -1,0 +1,12 @@
+Kullanıcıdan alınan üç sayı arasından en büyüğünü bulduran algoritmayı yazınız.
+
+1. Adım: Başla
+
+2. Adım: Kullanıcıdan sayi1, sayi2 ve sayi3 sayılarını al
+
+3. Adım Eğer sayi1 > sayi2 && sayi1 > sayi3 ise ekrana yazdır: sayi1 en büyüktür.
+4. Adım Eğer sayi2 > sayi1 && sayi1 > sayi3 ise ekrana yazdır: sayi2 en büyüktür.
+5. Adım Eğer sayi3 > sayi1 && sayi3 > sayi2 ise ekrana yazdır: sayi3 en büyüktür.
+6. Değil ise, Ekrana yazdır: "Eşitlik var, lütfen 3 farklı sayı girin." ve Adım 2 ye dön.
+
+7. Adım: Bitir

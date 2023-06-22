@@ -1,0 +1,11 @@
+Soru 3 : Kullanıcıdan girilen fiyatı KDV(%18) ekleyerek KDV li fiyatını ekrana yazdıran algoritma.
+
+1. Başla.
+
+2. urunFiyat Bilgisini kullanıcıdan al.
+
+3. kdvliFiyat = urunFiyat * 1.18
+
+4. Ekrana yazdır: kdvliFiyat
+
+5. Bitir.

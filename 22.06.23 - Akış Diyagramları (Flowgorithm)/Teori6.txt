@@ -1,0 +1,31 @@
+Soru: Kullanıcıdan alınan iki sayı (A ve B olsun) ve bu sayıların  yer değiştirdikten sonraki hallerini ekrana yazan algoritma.
+
+Not: 3. veya geçici bir değişken tanımlamadan, A ve B değişkenleri içindeki değerler yer değiştirecek.
+
+------------------------
+
+1. Başla
+
+2. Kullanıcıdan birinci sayıyı al (A)
+
+3. Kullanıcıdan ikinci sayıyı al (B)
+
+4. A, B = B, A
+
+5. Ekrana yazdır: ("Birinci Sayı: ", A)
+6. Ekrana yazdır: ("İkinci Sayı: ", B)
+
+7. Bitir
+
+----------------------
+
+Çözüm:
+
+1. Adım: Başla
+2. Adım: Kullanıcıdan sayi1 ve sayi2 değerlerini al.	A: 13 B: 22
+3. Adım: (Ekrana yaz ("A: ", sayi1 ve "B: ", sayi2) 	A: 13 B: 22
+4. Adım: sayi1 = sayi1 + sayi2 olsun. 					sayi1 = 13 + 22 = 35 olsun.
+5. Adım: sayi2 = sayi1 - sayi2 olsun. 					sayi2 = 35 - 22 = 13 olsun.
+6. Adım: sayi1 = sayi1 - sayi2 olsun. 					sayi1 = 35 - 13 = 22 olsun.
+7. Adım: Ekrana Yaz ("A: ", sayi1 ve "B: " , sayi2) 	A: 22 B: 13
+8. Adım: Bitir

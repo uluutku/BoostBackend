@@ -1,0 +1,22 @@
+Soru: Kullanıcıdan alınan iki sayı ile yine kullanıcıdan alınan işlem tipine göre, toplama, çıkarma, çarpma, bölme işlemlerini yapan ve sonuçları ekrana yazdıran, gerekirse ekrana hata mesajı da yazdıran algoritmayı yazınız.
+
+Not: sayi1 ve sayi2 değerleri için sayısal değerler girildiğini; islem değeri için harf girildiğini varsayalım.
+
+1.Adım: Başla
+2.Adım: Kullanıcıdan yapılacak işlemi al. (islem)
+3.Adım: islem == t,T,ç,Ç,X,x,B,b değilse, ekrana yaz: (Lütfen işlemi kontrol edin ve harf olarak yazın.") ve adım 2 ye dön.
+
+3.Adım: Kullanıcıdan birinci sayıyı al. (sayi1)
+4.Adım: Kullanıcıdan ikinci sayıyı al. (sayi2)
+
+5.Adım: Eger sayi1 ve sayi2 sayısal ifade ise adım 6 ya geç
+		Değil ise, Ekrana yazdır: ("Lütfen sayısal ifade girin") ve adım 3. e dön.
+
+6.Adım: Eğer, islem == t veya islem == T ise, sonuc = sayi1 + sayi2
+		Eğer, islem == ç veya islem == Ç ise, sonuc = sayi1 - sayi2
+		Eğer, islem == x veya islem == X ise, sonuc = sayi1*sayi2
+		Eğer, islem == b veya islem == B ise ve sayi2 != 0 ise, sonuc = sayi1 / sayi2
+		Eğer, islem == b veya islem == B ise ve sayi2 == 0 ise, Ekrana yazdır: ("0 a bölme işlemi yapılamaz. İkinci sayıyı tekrar girin.") ve Adım 4 e dön.
+	
+7. Ekrana yazdır: ("İşlemin sonucu: ", sonuc)
+8. Bitir
