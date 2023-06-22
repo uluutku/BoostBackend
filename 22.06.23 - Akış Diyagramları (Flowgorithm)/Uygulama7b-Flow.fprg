@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Utku"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2023-06-22 04:17:30 &#214;S"/>
+        <attribute name="saved" value="2023-06-22 05:03:30 &#214;S"/>
         <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzo0Mzo0OCDDllM7MjI4OA=="/>
-        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswNDoxNzozMCDDllM7MTA7MjQzNw=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswNTowMzozMCDDllM7MjA7MjQzNA=="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -24,6 +24,11 @@
                 <assign variable="girilenAdet" expression="girilenAdet + 1"/>
                 <output expression="&quot;Yeni bir say&#305; girecek misiniz? (y/n)&quot;" newline="True"/>
                 <input variable="devam"/>
+                <while expression="devam != &quot;y&quot; and devam != &quot;n&quot;">
+                    <output expression="&quot;L&#252;tfen yeni say&#305; girecekseniz:y , yeni say&#305; girmeyecekseniz n yaz&#305;n.&quot;" newline="True"/>
+                    <output expression="&quot;Yeni bir say&#305; girecek misiniz? (y/n)&quot;" newline="True"/>
+                    <input variable="devam"/>
+                </while>
             </while>
             <assign variable="sonuc" expression="toplam / girilenAdet"/>
             <output expression="girilenAdet &amp; &quot; adet say&#305;n&#305;n ortalamas&#305;: &quot; &amp; sonuc" newline="True"/>
