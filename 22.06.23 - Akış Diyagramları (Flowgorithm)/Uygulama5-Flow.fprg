@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:36:33 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzozMjo0MCDDllM7MjI3OA=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzozNjozMyDDllM7MTE7MjQ0MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="kenar uzunlu&#287;u girilen karenin &#231;evresini ve alan&#305;n&#305; bulan algoritma"/>
+            <declare name="kenar, cevre, alan" type="Integer" array="False" size=""/>
+            <output expression="&quot;Karenin bir kenar uzunlu&#287;unu girin: &quot;" newline="True"/>
+            <input variable="kenar"/>
+            <assign variable="cevre" expression="kenar * 4"/>
+            <assign variable="alan" expression="kenar * kenar"/>
+            <output expression="&quot;Kenar uzunlu&#287;u &quot; &amp; kenar &amp; &quot; olan karenin &#199;evresi: &quot;  &amp; cevre &amp; &quot; ve Alan&#305;: &quot; &amp; alan" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

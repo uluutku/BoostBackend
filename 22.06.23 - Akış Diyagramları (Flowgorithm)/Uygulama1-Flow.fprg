@@ -4,14 +4,14 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Utku"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2023-06-22 02:27:08 &#214;S"/>
+        <attribute name="saved" value="2023-06-22 03:40:30 &#214;S"/>
         <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMjowMzo1MSDDllM7MjI3Nw=="/>
-        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMjoyNzowOCDDllM7MzsyMzk1"/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzo0MDozMCDDllM7NDsyMzg3"/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
-            <comment text="Kullan&#305;c&#305;dan al&#305;nan iki say&#305;n&#305;n ortalamas&#305;n&#305; bulanm algoritma"/>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan iki say&#305;n&#305;n ortalamas&#305;n&#305; bulan algoritma"/>
             <declare name="sayi1, sayi2" type="Integer" array="False" size=""/>
             <output expression="&quot;Say&#305;1 i giriniz: &quot;" newline="True"/>
             <input variable="sayi1"/>

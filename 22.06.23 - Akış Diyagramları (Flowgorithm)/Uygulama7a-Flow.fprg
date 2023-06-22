@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 04:00:22 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzo0Mzo0OCDDllM7MjI4OA=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswNDowMDoyMiDDllM7NDsyMzg1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan n adet say&#305;n&#305;n ortalamas&#305;n&#305; alan algoritma"/>
+            <declare name="girilecekAdet, sayac, toplam, giris, sonuc" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="sayac" expression="0"/>
+            <output expression="&quot;Ka&#231; adet say&#305; gireceksiniz? :&quot;" newline="True"/>
+            <input variable="girilecekAdet"/>
+            <while expression="sayac &lt; girilecekAdet">
+                <output expression="&quot;L&#252;tfen bir say&#305; girin: &quot;" newline="True"/>
+                <input variable="giris"/>
+                <assign variable="toplam" expression="toplam + giris"/>
+                <assign variable="sayac" expression="sayac + 1"/>
+            </while>
+            <assign variable="sonuc" expression="toplam / girilecekAdet"/>
+            <output expression="girilecekAdet &amp; &quot; adet say&#305;n&#305;n ortalamas&#305;: &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

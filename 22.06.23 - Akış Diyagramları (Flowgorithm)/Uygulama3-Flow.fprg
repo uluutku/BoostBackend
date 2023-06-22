@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 03:17:34 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzoxMTo0NSDDllM7MjI4MA=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzoxNzozNCDDllM7OTsyNDAw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan fiyata %18 kdv ekleyip g&#246;steren algoritma."/>
+            <declare name="fiyat, sonuc, kdv" type="Real" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen fiyat girin: &quot;" newline="True"/>
+            <input variable="fiyat"/>
+            <assign variable="kdv" expression="fiyat * 0.18"/>
+            <assign variable="sonuc" expression="fiyat + kdv"/>
+            <output expression="fiyat &amp; &quot; Fiyat&#305;ndaki &#252;r&#252;n, &quot; &amp; kdv &amp; &quot; KDV eklenince, &quot; &amp; sonuc &amp; &quot; olur.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

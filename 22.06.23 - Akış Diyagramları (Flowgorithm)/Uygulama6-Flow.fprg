@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 04:01:30 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMzo0MTozMCDDllM7MjI3Nw=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswNDowMTozMCDDllM7MzsyMzg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan tam say&#305;n&#305;n tek mi &#231;ift mi oldu&#287;unu bulan algoritma"/>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <output expression="&quot;L&#252;tfen bir say&#305; girin: &quot;" newline="True"/>
+            <if expression="sayi % 2 == 0">
+                <then>
+                    <output expression="sayi &amp; &quot; &#231;ift say&#305;d&#305;r.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="sayi &amp; &quot; tek say&#305;d&#305;r.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
