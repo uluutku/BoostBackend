@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-22 02:47:39 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMjoxNjo1MSDDllM7MjI4MQ=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMjswMjo0NzozOSDDllM7MzsyNDAx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan 3 say&#305;dan en b&#252;y&#252;&#287;&#252;n&#252; bul"/>
+            <declare name="sayi1, sayi2, sayi3" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305; 1 i girin: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;Say&#305; 2 i girin: &quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <output expression="&quot;Say&#305; 3 i girin: &quot;" newline="True"/>
+            <input variable="sayi3"/>
+            <if expression="sayi1 &gt; sayi2 and sayi1 &gt; sayi3">
+                <then>
+                    <output expression="&quot;Say&#305; 1 en b&#252;y&#252;kt&#252;r.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sayi2 &gt; sayi1 and sayi2 &gt; sayi3">
+                        <then>
+                            <output expression="&quot;Say&#305; 2 en b&#252;y&#252;kt&#252;r.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="sayi3 &gt; sayi1 and  sayi3 &gt; sayi2">
+                                <then>
+                                    <output expression="&quot;Say&#305; 3 en b&#252;y&#252;kt&#252;r.&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <output expression="&quot;De&#287;erler aras&#305;nda e&#351;itlik var.&quot;" newline="True"/>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
