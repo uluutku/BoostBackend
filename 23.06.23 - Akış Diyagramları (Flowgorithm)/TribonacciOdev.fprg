@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 05:44:10 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswNToxNzo0NSDDllM7MjI4OQ=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswNTo0NDoxMCDDllM7MzsyMzkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="1000 e kadar olan tribonacci say&#305; dizisini yazd&#305;r&#305;n&#305;z.&#13;&#10;1,1,2,4,7,13,24,44,81,149,274,504,927"/>
+            <declare name="sayi1, sayi2, sayi3, sayi4" type="Integer" array="False" size=""/>
+            <assign variable="sayi1" expression="1"/>
+            <assign variable="sayi2" expression="1"/>
+            <assign variable="sayi3" expression="2"/>
+            <assign variable="sayi4" expression="0"/>
+            <output expression="sayi1" newline="True"/>
+            <output expression="sayi2" newline="True"/>
+            <output expression="sayi3" newline="True"/>
+            <while expression="sayi4 &lt;= 1000">
+                <assign variable="sayi4" expression="sayi1 + sayi2 + sayi3"/>
+                <if expression="sayi4 &lt;= 1000">
+                    <then>
+                        <output expression="sayi4" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="sayi1" expression="sayi2"/>
+                <assign variable="sayi2" expression="sayi3"/>
+                <assign variable="sayi3" expression="sayi4"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
