@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 02:50:40 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjoyMTowNyDDllM7MjI3OQ=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjo1MDo0MCDDllM7MzsyMzg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="1 ile 100 aras&#305;ndaki asal say&#305;lar&#305; veren algoritma"/>
+            <declare name="sayac, bolen, bolenSayisi" type="Integer" array="False" size=""/>
+            <assign variable="bolen" expression="2"/>
+            <assign variable="bolenSayisi" expression="0"/>
+            <for variable="sayac" start="2" end="100" direction="inc" step="1">
+                <while expression="sayac != bolen">
+                    <if expression="sayac % bolen == 0">
+                        <then>
+                            <assign variable="bolenSayisi" expression="bolenSayisi + 1"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <assign variable="bolen" expression="bolen + 1"/>
+                </while>
+                <if expression="bolenSayisi == 0">
+                    <then>
+                        <output expression="sayac &amp; &quot; say&#305;s&#305; asal say&#305;d&#305;r.&quot;" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="bolen" expression="2"/>
+                <assign variable="bolenSayisi" expression="0"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

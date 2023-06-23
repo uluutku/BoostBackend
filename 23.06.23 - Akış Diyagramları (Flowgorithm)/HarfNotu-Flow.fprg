@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 04:33:28 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjowNjoxNCDDllM7MjI4MA=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswNDozMzoyOCDDllM7MTg7MjQ1MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="&#214;&#287;renci notunu hesaplay&#305;p ge&#231;tiniz veya kald&#305;n&#305;z yazan algoritma.&#13;&#10;(Vize: %30 , Final:%70 , Ge&#231;me notu = 50)"/>
+            <declare name="vize, final, notOrt" type="Integer" array="False" size=""/>
+            <output expression="&quot;Vize notunuzu giriniz: &quot;" newline="True"/>
+            <input variable="vize"/>
+            <while expression="vize &lt; 0 or vize &gt; 100">
+                <output expression="&quot;L&#252;tfen 0 ile 100 aras&#305;nda bir de&#287;er girin.&quot;" newline="True"/>
+                <input variable="vize"/>
+            </while>
+            <output expression="&quot;Final notunuzu giriniz: &quot;" newline="True"/>
+            <input variable="final"/>
+            <while expression="final &lt; 0 or final &gt; 100">
+                <output expression="&quot;L&#252;tfen 0 ile 100 aras&#305;nda bir de&#287;er girin.&quot;" newline="True"/>
+                <input variable="final"/>
+            </while>
+            <assign variable="notOrt" expression="vize * 0.3 + final * 0.7"/>
+            <if expression="notOrt &gt;= 90">
+                <then>
+                    <output expression="notOrt &amp; &quot; not ortalamas&#305; ile A notu al&#305;n&#305;r.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="notOrt &gt;= 80 and notOrt  &lt;= 89">
+                        <then>
+                            <output expression="notOrt &amp; &quot; not ortalamas&#305; ile B notu al&#305;n&#305;r.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="notOrt &gt;= 70 and notOrt  &lt;= 79">
+                                <then>
+                                    <output expression="notOrt &amp; &quot; not ortalamas&#305; ile C notu al&#305;n&#305;r.&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <if expression="notOrt &gt;= 45 and notOrt  &lt;= 69">
+                                        <then>
+                                            <output expression="notOrt &amp; &quot; not ortalamas&#305; ile D notu al&#305;n&#305;r.&quot;" newline="True"/>
+                                        </then>
+                                        <else>
+                                            <if expression="notOrt &gt;= 0 and notOrt  &lt;= 44">
+                                                <then>
+                                                    <output expression="notOrt &amp; &quot; not ortalamas&#305; ile D notu al&#305;n&#305;r.&quot;" newline="True"/>
+                                                </then>
+                                                <else/>
+                                            </if>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

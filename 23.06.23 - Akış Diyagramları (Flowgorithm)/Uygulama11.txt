@@ -1,0 +1,20 @@
+Soru 11 : Bir kampüsteki öğrencilerin kilo ortalamalarını, cinsiyetlerine göre bulduran algoritma..
+
+1: Başla
+
+2. Adım: Öğrencinin cinsiyetini al. (cinsiyet)
+3. Adım: Öğrencinin kilosunu al. (kilo)
+
+									kizlarKilo = kizlarKilo + kilo
+4. Adım: Eger cinsiyet == kız ise, kizlarKilo += kilo, kizSayisi += 1
+5. Adım: Eğer cinsiyet == erkek ise, erkeklerKilo += kilo, erkekSayisi += 1
+6. Adım: Eğer cinsiyet != erkek ve != kız ise, digerKilo += kilo, digerSayisi += 1
+		 
+7. Adım: Tüm öğrenciler girildi ise, adım 8 e git.
+		 Değil ise, adım 2 e dön.
+
+8. Adım: Ekrana yazdır: ("Erkeklerin ortalaması: ", erkeklerKilo/erkekSayisi)
+		 Ekrana yazdır: ("Kızların ortalaması: ", kizlarKilo/erkekSayisi)
+		 Ekrana yazdır: ("Diğer ortalaması: ", digerKilo/digerSayisi)
+
+9. Bitir

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 03:20:05 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjo1NzoxNCDDllM7MjI4Ng=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMzoyMDowNSDDllM7MzsyMzg3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Bir kamp&#252;steki &#246;&#287;rencilerin kilo ortalamalar&#305;n&#305;, cinsiyetlerine g&#246;re bulduran algoritma."/>
+            <declare name="kilo, kizSayisi, kizKilolar, kizOrtalama, erkekSayisi, erkekKilolar, erkekOrtalama, digerSayisi, digerKilolar, digerOrtalama" type="Integer" array="False" size=""/>
+            <declare name="cinsiyet, devam" type="String" array="False" size=""/>
+            <assign variable="cinsiyet" expression="&quot;a&quot;"/>
+            <assign variable="kizSayisi" expression="0"/>
+            <assign variable="erkekSayisi" expression="0"/>
+            <assign variable="digerSayisi" expression="0"/>
+            <assign variable="erkekKilolar" expression="0"/>
+            <assign variable="kizKilolar" expression="0"/>
+            <assign variable="digerKilolar" expression="0"/>
+            <assign variable="devam" expression="&quot;y&quot;"/>
+            <while expression="devam == &quot;y&quot;">
+                <output expression="&quot;Cinsiyetinizi girin (e/k/d): &quot;" newline="True"/>
+                <input variable="cinsiyet"/>
+                <while expression="cinsiyet != &quot;e&quot; and cinsiyet != &quot;k&quot; and cinsiyet != &quot;d&quot;">
+                    <output expression="&quot;L&#252;tfen ge&#231;erli bir cinsiyet girin: (e/k/d)&quot;" newline="True"/>
+                    <input variable="cinsiyet"/>
+                </while>
+                <if expression="cinsiyet == &quot;d&quot;">
+                    <then>
+                        <output expression="&quot;L&#252;tfen kilonuzu girin: &quot;" newline="True"/>
+                        <input variable="kilo"/>
+                        <assign variable="digerKilolar" expression="digerKilolar + kilo"/>
+                        <assign variable="digerSayisi" expression="digerSayisi + 1"/>
+                    </then>
+                    <else>
+                        <if expression="cinsiyet == &quot;e&quot;">
+                            <then>
+                                <output expression="&quot;L&#252;tfen kilonuzu girin: &quot;" newline="True"/>
+                                <input variable="kilo"/>
+                                <assign variable="erkekKilolar" expression="erkekKilolar + kilo"/>
+                                <assign variable="erkekSayisi" expression="erkekSayisi + 1"/>
+                            </then>
+                            <else>
+                                <if expression="cinsiyet == &quot;k&quot;">
+                                    <then>
+                                        <output expression="&quot;L&#252;tfen kilonuzu girin: &quot;" newline="True"/>
+                                        <input variable="kilo"/>
+                                        <assign variable="kizKilolar" expression="kizKilolar + kilo"/>
+                                        <assign variable="kizSayisi" expression="kizSayisi + 1"/>
+                                    </then>
+                                    <else/>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+                <output expression="&quot;Yeni ki&#351;i girecek misiniz? (y/n): &quot;" newline="True"/>
+                <input variable="devam"/>
+            </while>
+            <if expression="erkekSayisi &gt; 0">
+                <then>
+                    <assign variable="erkekOrtalama" expression="erkekKilolar / erkekSayisi"/>
+                    <output expression="&quot;Erkek &#246;&#287;renci say&#305;s&#305;: &quot; &amp; erkekSayisi &amp; &quot; Erkek &#246;&#287;rencilerin kilo ortalamas&#305;: &quot; &amp; erkekOrtalama" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Hi&#231; erkek &#246;&#287;renci yok.&quot;" newline="True"/>
+                </else>
+            </if>
+            <if expression="kizSayisi &gt; 0">
+                <then>
+                    <assign variable="kizOrtalama" expression="kizKilolar / kizSayisi"/>
+                    <output expression="&quot;K&#305;z &#246;&#287;renci say&#305;s&#305;: &quot; &amp; kizSayisi &amp; &quot; K&#305;z &#246;&#287;rencilerin kilo ortalamas&#305;: &quot; &amp; kizOrtalama" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Hi&#231; k&#305;z &#246;&#287;renci yok.&quot;" newline="True"/>
+                </else>
+            </if>
+            <if expression="digerSayisi &gt; 0">
+                <then>
+                    <assign variable="digerOrtalama" expression="digerKilolar / digerSayisi"/>
+                    <output expression="&quot;Di&#287;er cinsiyette &#246;&#287;renci say&#305;s&#305;: &quot; &amp; digerSayisi &amp; &quot; Di&#287;er cinsiyette &#246;&#287;rencilerin kilo ortalamas&#305;: &quot; &amp; digerOrtalama" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Hi&#231; di&#287;er cinsiyette &#246;&#287;renci yok.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

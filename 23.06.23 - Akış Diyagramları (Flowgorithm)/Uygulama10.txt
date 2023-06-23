@@ -1,0 +1,19 @@
+Bir ürün için yapılan ankette beğenen beğenmeyen ve kararsız kalanların ve toplam müşteri sayısını ekrana yazdıran algoritma
+
+1. Başla
+
+2. kullanıcıdan anket sonucunu al: (karar)
+
+3. eger karar == begendi ise, begenenler += 1
+	eger karar == begenmedi ise, begenmeyenler += 1
+	eger karar == kararsiz ise, kararsizlar += 1
+
+4. anket bitti ise adım 5. e geç,
+	değil ise adım 2 ye dön.
+	
+5. ekrana yazdır: 	"Beğenenler: ", begenenler, 
+					"Beğenmeyenler: ", begenmeyenler, 
+					"Kararsızlar: ", kararsizlar,
+					"Toplam kişi sayısı: " (begenenler + begenmeyenler + kararsizlar)
+
+6. Bitir

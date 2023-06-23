@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 02:55:52 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjowMzoxMSDDllM7MjI3NA=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswMjo1NTo1MiDDllM7MzsyMzk2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <for variable="sayac" start="1" end="100" direction="inc" step="1">
+                <if expression="sayac % 2 == 0">
+                    <then>
+                        <output expression="sayac &amp; &quot; &#231;ifttir.&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="sayac &amp; &quot; tektir.&quot;" newline="True"/>
+                    </else>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
