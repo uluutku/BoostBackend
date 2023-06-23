@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 09:28:17 &#214;&#214;"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswOToxMjo1MCDDlsOWOzI0MTU="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzswOToyODoxNyDDlsOWOzU7MjUzNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen bir say&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <while expression="sayi == 0">
+                <output expression="&quot;0 fakt&#246;riyel sonucu 1 e e&#351;ittir. Yeni say&#305; girin: &quot;" newline="True"/>
+                <input variable="sayi"/>
+            </while>
+            <declare name="sonuc, carpan" type="Integer" array="False" size=""/>
+            <assign variable="sonuc" expression="sayi"/>
+            <assign variable="carpan" expression="sayi - 1"/>
+            <while expression="carpan &gt;= 1">
+                <assign variable="sonuc" expression="sonuc * carpan"/>
+                <assign variable="carpan" expression="carpan - 1"/>
+            </while>
+            <output expression="sayi &amp; &quot;! &quot; &amp; &quot;i&#351;leminin sonucu: &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

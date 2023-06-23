@@ -1,0 +1,8 @@
+Notlar:
+
+1 den 300 e kadar sayan for döngüsü -> for(int i = 1; i<=300; i++){
+}
+
+tavsite siteler -> w3schools.com (c#)
+
+visual studio 2022 / .net core 6 

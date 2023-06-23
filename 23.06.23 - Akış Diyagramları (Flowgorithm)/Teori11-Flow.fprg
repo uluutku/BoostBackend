@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Utku"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-23 12:33:35 &#214;S"/>
+        <attribute name="created" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzsxMjowMToyMyDDllM7MjI3Ng=="/>
+        <attribute name="edited" value="VXRrdTtNQUlOUEM7MjAyMy0wNi0yMzsxMjozMzozNSDDllM7MTc7MjQ0Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="1 ile 300 aras&#305;ndaki tam say&#305;lardan (1 ve 300 dahil), tek olanlar&#305;n toplam&#305; ile &#231;ift olanlar&#305;n toplam&#305;n&#305;n fark&#305;n&#305; bulan ve bu fark&#305;n negatif mi, pozitif mi yoksa s&#305;f&#305;r m&#305; oldu&#287;unu ekrana yazd&#305;ran algoritma."/>
+            <declare name="sayac, toplamCift, toplamTek, sonuc" type="Integer" array="False" size=""/>
+            <assign variable="toplamTek" expression="0"/>
+            <assign variable="toplamCift" expression="0"/>
+            <assign variable="sayac" expression="300"/>
+            <while expression="sayac &lt;= 300 and sayac &gt;= 1">
+                <if expression="sayac % 2 == 0">
+                    <then>
+                        <assign variable="toplamCift" expression="toplamCift + sayac"/>
+                    </then>
+                    <else>
+                        <assign variable="toplamTek" expression="toplamTek + sayac"/>
+                    </else>
+                </if>
+                <assign variable="sayac" expression="sayac - 1"/>
+            </while>
+            <assign variable="sonuc" expression="toplamTek - toplamCift"/>
+            <output expression="&quot;1 ile 300 aras&#305;ndaki tek say&#305;lar&#305;n toplam&#305; olan &quot; &amp; toplamTek &amp; &quot; say&#305;s&#305;ndan, &quot; &amp; &quot;&#231;ift say&#305;lar&#305;n toplam&#305; olan &quot; &amp; toplamCift &amp; &quot; &#231;&#305;kart&#305;ld&#305;&#287;&#305;nda sonu&#231;: &quot; &amp; sonuc &amp; &quot; &#231;&#305;kar.&quot;" newline="True"/>
+            <if expression="toplamTek - toplamCift == 0">
+                <then>
+                    <output expression="&quot;Sonu&#231; 0 d&#305;r.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="toplamTek - toplamCift &gt; 0">
+                        <then>
+                            <output expression="&quot;Sonu&#231; pozitiftir.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Sonu&#231; negatiftir.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

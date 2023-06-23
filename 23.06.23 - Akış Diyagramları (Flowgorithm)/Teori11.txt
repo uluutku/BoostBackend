@@ -1,0 +1,14 @@
+Soru: 1 ile 300 arasındaki tam sayılardan (1 ve 300 dahil), tek olanların toplamı ile çift olanların toplamının farkını bulan ve bu farkın negatif mi, pozitif mi yoksa sıfır mı olduğunu ekrana yazdıran algoritma.
+
+1.Adım: Başla
+
+2.Adım: sayac = 300 , toplamCift = 0, toplamTek = 0
+3.Adım: Eğer sayac <= 300 ve sayac >= 1 ise, adım 4 e git.
+	değilse adım 6 ya git.
+4.Adım: Eğer sayac % 2 == 0 ise toplamCift = toplamCift + sayac
+	değilse, toplamTek += sayac
+5.Adım: sayac = sayac - 1 ve adım 3 e git.
+6.Adım: Eger, toplamTek - toplamCift > 0 ise ekrana yazdır: "Sonuç pozitif."
+7.Adım: Eger, toplamTek - toplamCift == 0 ise ekrana yazdır: "Sonuç 0."
+8.Adım: Eger, toplamTek - toplamCift < 0 ise ekrana yazdır: "Sonuç negatif."
+9.Adım: Bitir

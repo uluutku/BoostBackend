@@ -1,0 +1,19 @@
+Soru: Kullanıcıdan alınan bir sayının faktöriyel hesabını yapan ve ekrana yazdıran uygulama. (5! = 5.4.3.2.1 = 120) / 0! = 1
+
+1. Başla
+
+2. kullanıcıdan bir sayı al (sayi)
+
+3. Eğer sayi 0 ise ekrana yazdır: ("0 faktöriyelin sonucu 1 dir.") ve Adım 8 e git.
+	Değil ise, adım 4. e git.
+
+4. sonuc = sayi olsun
+5. carpan = sayi - 1 olsun
+
+6. Eğer carpan 1 den büyük veya eşit ise, 
+										a. sonuc = sonuc * carpan
+										b. carpan = carpan - 1
+										ve adım 6 ya git.
+										
+7. Ekrana yazdır: (sayi, "faktöriyelin sonucu: ", sonuc)
+8. Bitir										

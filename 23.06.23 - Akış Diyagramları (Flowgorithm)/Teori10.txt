@@ -1,0 +1,31 @@
+Bir X sayısı tek ise 3 ile çarpılıp 1 ekleniyor.
+Çift ise ikiye bölünüyor. İşlem X sayısı 1 olana kadar devam ediyor. Bu işlemin kaç adım sürdüğünü, işlem sayısında X sayısının hangi sonra hep çift olarak 1'e ulaştığını bulan ve ekrana yazan algoritma)
+
+1.Adım: Başla
+
+2.Adım: enBuyuk = 0, ciftEnBuyuk = 0,
+
+3.Adım: kullanıcıdan bir X sayısı al.
+
+4.Adım: Eğer X = 1 ise veya 1 den küçükse ekrana yazdır: ("Lütfen tekrar girin.") ve adım 2 ye git.
+
+5.Adım: Eğer X = 1 değil ise, X tek mi çift mi diye bak (x % 2 = 0 ise, adım 6.)
+														değil ise, adım 9.
+--											
+6.Adım: ciftEnBuyuk > x ise, ciftEnBuyuk = X olsun.
+7.Adım: X = X / 2
+8.Adım: adımSayac = adımSayac + 1 ve adım 11 e git.
+--
+
+--
+9.Adım: X = X * 3 + 1 ve ciftEnBuyuk = 0
+10.Adım: adımSayac = adımSayac + 1 ve adım 11 e git.
+--
+
+11.Adım: Eğer, X > enBuyuk ise enBuyuk = X olsun.
+
+12.Adım: Ekrana yazdır: ("X in işlemler sırasında aldığı en büyük değer: " , enBuyuk)
+13.Adım: Ekrana yazdır: ("X çift in işlemler sırasında aldığı en büyük değer: " , ciftEnBuyuk)
+14.Adım: Ekrana yazdır: ("Toplam işlem adedi: " , adimSayac)
+
+15.Adım: Bitir
