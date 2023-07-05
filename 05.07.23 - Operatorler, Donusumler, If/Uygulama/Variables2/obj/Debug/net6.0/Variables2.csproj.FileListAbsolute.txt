@@ -1,0 +1,30 @@
+C:\Users\Utku\Desktop\Variables2\bin\Debug\net6.0\Variables2.exe
+C:\Users\Utku\Desktop\Variables2\bin\Debug\net6.0\Variables2.deps.json
+C:\Users\Utku\Desktop\Variables2\bin\Debug\net6.0\Variables2.runtimeconfig.json
+C:\Users\Utku\Desktop\Variables2\bin\Debug\net6.0\Variables2.dll
+C:\Users\Utku\Desktop\Variables2\bin\Debug\net6.0\Variables2.pdb
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.AssemblyInfo.cs
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.dll
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\refint\Variables2.dll
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.pdb
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\Variables2.genruntimeconfig.cache
+C:\Users\Utku\Desktop\Variables2\obj\Debug\net6.0\ref\Variables2.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\bin\Debug\net6.0\Variables2.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\bin\Debug\net6.0\Variables2.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\bin\Debug\net6.0\Variables2.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\bin\Debug\net6.0\Variables2.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\bin\Debug\net6.0\Variables2.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\refint\Variables2.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\Variables2.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Variables2\obj\Debug\net6.0\ref\Variables2.dll

@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\bin\Debug\net6.0\Parse.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\bin\Debug\net6.0\Parse.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\bin\Debug\net6.0\Parse.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\bin\Debug\net6.0\Parse.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\bin\Debug\net6.0\Parse.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\refint\Parse.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\Parse.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\05.07.23 - Operatorler, Donusumler, If\Uygulama\Parse\obj\Debug\net6.0\ref\Parse.dll
