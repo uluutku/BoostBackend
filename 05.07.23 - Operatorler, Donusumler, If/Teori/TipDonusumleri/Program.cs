@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Tip Dönüşümler:
-            //Bir veri tipindeki değeri farkı bir veri tipine çebirmek için, .NET Conver sınıfı, Pars() meetodu ve Casting işlemi tip dönüşümünü karşılar.
+            //Bir veri tipindeki değeri farkı bir veri tipine çevirmek için, .NET Convert sınıfı, Pars() metodu ve Casting işlemi tip dönüşümünü karşılar.
             //Ayrıca ToString() ile veriyi stringe dönüştürebiliriz.
             //Dış dünyaya gösterilecek her şey string olmak zorunda.
 
