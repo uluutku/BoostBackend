@@ -1,0 +1,162 @@
+﻿#region MTV Sorusu If Else ile çözüm
+/*
+double tipCarpani = default;
+double yasCarpani = default;
+double ccCarpani = default;
+
+aracTipiAlma:  Console.WriteLine("Araç Tipini Girin: (Binek/Ticari) ");
+string aracTipi = Console.ReadLine().ToLower();
+
+if (aracTipi == "binek")
+{
+    tipCarpani = 100;
+}
+
+else if (aracTipi == "ticari")
+{
+    tipCarpani = 150;
+}
+
+else
+{
+    Console.WriteLine("Lütfen geçerli bir araç tipi girin.");
+    goto aracTipiAlma;
+}
+
+
+aracYasAlma: Console.WriteLine("Araç Yaşını Girin: ");
+int aracYasi = int.Parse(Console.ReadLine());
+
+if (aracYasi >=0 && aracYasi <= 3)
+{
+    yasCarpani = 1.75;
+}
+
+else if (aracYasi >=4 && aracYasi <= 7)
+{
+    yasCarpani = 1.5;
+}
+
+else if (aracYasi > 7)
+{
+    yasCarpani = 1.25;
+}
+
+else
+{
+    Console.WriteLine("Lütfen geçerli bir yaş girin.");
+    goto aracYasAlma;
+}
+
+ aracCcAlma: Console.WriteLine("Aracınızın motor hacmini girin: ");
+double aracHacmi = double.Parse(Console.ReadLine());
+
+//if (aracHacmi >= 0.5 && aracHacmi <= 7){aracHacmi = aracHacmi * 1000.0;} /// hocaya sor 1.2 için 12 dönüyor
+
+if (aracHacmi > 0 && aracHacmi <= 1300)
+{
+    ccCarpani = 2;
+}
+
+else if (aracHacmi > 1300 && aracHacmi <= 1600)
+{
+    ccCarpani = 3;
+}
+
+else if (aracHacmi > 1600 && aracHacmi <= 2000)
+{
+    ccCarpani = 3;
+}
+
+else if (aracHacmi > 2000)
+{
+    ccCarpani = 5;
+}
+
+else
+{
+    Console.WriteLine("Lütfen geçerli bir hacim değeri girin.");
+    goto aracCcAlma;
+}
+
+
+double mtv = tipCarpani * yasCarpani * ccCarpani;
+
+Console.WriteLine($"Aracınızın tipi:{aracTipi} \n Aracınızın Yaşı: {aracYasi} \n Aracınızın Motor Hacmi: {aracHacmi}cc \n Ödemeniz gereken MTV: {mtv}TL");
+*/
+#endregion
+
+//***********************
+
+#region MTV Sorusu Switch Case ile çözüm
+
+double tipCarpani = default;
+double yasCarpani = default;
+double ccCarpani = default;
+
+aracTipiAlma:
+Console.WriteLine("Araç Tipini Girin: (Binek/Ticari) ");
+string aracTipi = Console.ReadLine().ToLower();
+
+switch (aracTipi)
+{
+    case "binek":
+        tipCarpani = 100;
+        break;
+    case "ticari":
+        tipCarpani = 150;
+        break;
+    default:
+        Console.WriteLine("Lütfen geçerli bir araç tipi girin.");
+        goto aracTipiAlma;
+}
+
+
+aracYasAlma:
+Console.WriteLine("Araç Yaşını Girin: ");
+int aracYasi = int.Parse(Console.ReadLine());
+
+switch (aracYasi)
+{
+    case <= 3:
+        yasCarpani = 1.75;
+        break;
+    case <= 7:
+        yasCarpani = 1.5;
+        break;
+    case > 7:
+        yasCarpani = 1.25;
+        break;
+    default:
+        Console.WriteLine("Lütfen geçerli bir yaş girin.");
+        goto aracYasAlma;
+}
+
+aracCcAlma:
+Console.WriteLine("Aracınızın motor hacmini girin: ");
+double aracHacmi = double.Parse(Console.ReadLine());
+
+switch (aracHacmi)
+{
+    case <= 1300:
+        ccCarpani = 2;
+        break;
+    case <= 1600:
+        ccCarpani = 3;
+        break;
+    case <= 2000:
+        ccCarpani = 4;
+        break;
+    case > 2000:
+        ccCarpani = 5;
+        break;
+    default:
+        Console.WriteLine("Lütfen geçerli bir hacim değeri girin.");
+        goto aracCcAlma;
+}
+
+double mtv = tipCarpani * yasCarpani * ccCarpani;
+
+Console.WriteLine($"Aracınızın tipi:{aracTipi} \n Aracınızın Yaşı: {aracYasi} \n Aracınızın Motor Hacmi: {aracHacmi}cc \n Ödemeniz gereken MTV: {mtv}TL");
+
+#endregion
