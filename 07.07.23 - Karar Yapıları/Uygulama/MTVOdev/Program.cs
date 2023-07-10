@@ -1,5 +1,5 @@
 ﻿#region MTV Sorusu If Else ile çözüm
-/*
+
 double tipCarpani = default;
 double yasCarpani = default;
 double ccCarpani = default;
@@ -51,7 +51,7 @@ else
  aracCcAlma: Console.WriteLine("Aracınızın motor hacmini girin: ");
 double aracHacmi = double.Parse(Console.ReadLine());
 
-//if (aracHacmi >= 0.5 && aracHacmi <= 7){aracHacmi = aracHacmi * 1000.0;} /// hocaya sor 1.2 için 12 dönüyor
+if (aracHacmi >= 0.5 && aracHacmi <= 7){aracHacmi = aracHacmi * 1000.0;} /// hocaya sor 1.2 için 12 dönüyor
 
 if (aracHacmi > 0 && aracHacmi <= 1300)
 {
@@ -83,13 +83,13 @@ else
 double mtv = tipCarpani * yasCarpani * ccCarpani;
 
 Console.WriteLine($"Aracınızın tipi:{aracTipi} \n Aracınızın Yaşı: {aracYasi} \n Aracınızın Motor Hacmi: {aracHacmi}cc \n Ödemeniz gereken MTV: {mtv}TL");
-*/
+
 #endregion
 
 //***********************
 
 #region MTV Sorusu Switch Case ile çözüm
-
+/*
 double tipCarpani = default;
 double yasCarpani = default;
 double ccCarpani = default;
@@ -113,6 +113,8 @@ switch (aracTipi)
 
 
 aracYasAlma:
+
+
 Console.WriteLine("Araç Yaşını Girin: ");
 int aracYasi = int.Parse(Console.ReadLine());
 
@@ -158,5 +160,5 @@ switch (aracHacmi)
 double mtv = tipCarpani * yasCarpani * ccCarpani;
 
 Console.WriteLine($"Aracınızın tipi:{aracTipi} \n Aracınızın Yaşı: {aracYasi} \n Aracınızın Motor Hacmi: {aracHacmi}cc \n Ödemeniz gereken MTV: {mtv}TL");
-
+*/
 #endregion
