@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JumpKeyword/1.0.0": {
+        "runtime": {
+          "JumpKeyword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JumpKeyword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

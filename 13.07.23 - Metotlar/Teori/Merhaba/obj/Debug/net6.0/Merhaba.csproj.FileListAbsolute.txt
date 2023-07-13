@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\bin\Debug\net6.0\Merhaba.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\bin\Debug\net6.0\Merhaba.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\bin\Debug\net6.0\Merhaba.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\bin\Debug\net6.0\Merhaba.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\bin\Debug\net6.0\Merhaba.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\refint\Merhaba.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\Merhaba.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Teori\Merhaba\obj\Debug\net6.0\ref\Merhaba.dll

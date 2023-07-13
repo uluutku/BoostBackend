@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\bin\Debug\net6.0\While1to20.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\bin\Debug\net6.0\While1to20.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\bin\Debug\net6.0\While1to20.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\bin\Debug\net6.0\While1to20.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\bin\Debug\net6.0\While1to20.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\refint\While1to20.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\While1to20.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\While1to20\obj\Debug\net6.0\ref\While1to20.dll

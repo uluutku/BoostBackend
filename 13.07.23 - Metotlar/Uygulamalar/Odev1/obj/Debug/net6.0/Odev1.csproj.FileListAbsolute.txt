@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\bin\Debug\net6.0\Odev1.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\bin\Debug\net6.0\Odev1.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\bin\Debug\net6.0\Odev1.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\bin\Debug\net6.0\Odev1.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\bin\Debug\net6.0\Odev1.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\refint\Odev1.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\Odev1.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\13.07.23 - Metotlar\Uygulamalar\Odev1\obj\Debug\net6.0\ref\Odev1.dll

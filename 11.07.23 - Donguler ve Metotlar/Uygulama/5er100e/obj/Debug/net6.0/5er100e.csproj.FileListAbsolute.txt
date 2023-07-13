@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\bin\Debug\net6.0\5er100e.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\bin\Debug\net6.0\5er100e.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\bin\Debug\net6.0\5er100e.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\bin\Debug\net6.0\5er100e.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\bin\Debug\net6.0\5er100e.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\refint\5er100e.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\5er100e.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\5er100e\obj\Debug\net6.0\ref\5er100e.dll

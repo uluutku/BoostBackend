@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\bin\Debug\net6.0\10NotEnBuyuk.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\bin\Debug\net6.0\10NotEnBuyuk.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\bin\Debug\net6.0\10NotEnBuyuk.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\bin\Debug\net6.0\10NotEnBuyuk.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\bin\Debug\net6.0\10NotEnBuyuk.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\refint\10NotEnBuyuk.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\10NotEnBuyuk.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\10NotEnBuyuk\obj\Debug\net6.0\ref\10NotEnBuyuk.dll

@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\bin\Debug\net6.0\YıldızCizme.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\bin\Debug\net6.0\YıldızCizme.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\bin\Debug\net6.0\YıldızCizme.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\bin\Debug\net6.0\YıldızCizme.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\bin\Debug\net6.0\YıldızCizme.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\refint\YıldızCizme.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\YıldızCizme.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\11.07.23 - Donguler ve Metotlar\Uygulama\YıldızCizme\obj\Debug\net6.0\ref\YıldızCizme.dll
