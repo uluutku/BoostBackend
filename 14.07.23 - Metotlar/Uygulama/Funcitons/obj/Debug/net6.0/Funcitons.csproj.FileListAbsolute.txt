@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\bin\Debug\net6.0\Funcitons.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\bin\Debug\net6.0\Funcitons.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\bin\Debug\net6.0\Funcitons.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\bin\Debug\net6.0\Funcitons.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\bin\Debug\net6.0\Funcitons.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\refint\Funcitons.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\Funcitons.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Funcitons\obj\Debug\net6.0\ref\Funcitons.dll

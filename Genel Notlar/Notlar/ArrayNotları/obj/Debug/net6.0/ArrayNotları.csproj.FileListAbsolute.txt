@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\bin\Debug\net6.0\ArrayNotları.exe
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\bin\Debug\net6.0\ArrayNotları.deps.json
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\bin\Debug\net6.0\ArrayNotları.runtimeconfig.json
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\bin\Debug\net6.0\ArrayNotları.dll
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\bin\Debug\net6.0\ArrayNotları.pdb
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.AssemblyInfo.cs
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.dll
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\refint\ArrayNotları.dll
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.pdb
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ArrayNotları.genruntimeconfig.cache
+C:\Users\Utku\Desktop\Kodlama Notlar\Notlar\ArrayNotları\obj\Debug\net6.0\ref\ArrayNotları.dll

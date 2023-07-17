@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.AssemblyInfo.cs
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\bin\Debug\net6.0\Dizi.exe
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\bin\Debug\net6.0\Dizi.deps.json
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\bin\Debug\net6.0\Dizi.runtimeconfig.json
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\bin\Debug\net6.0\Dizi.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\bin\Debug\net6.0\Dizi.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\refint\Dizi.dll
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.pdb
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\Dizi.genruntimeconfig.cache
+C:\Users\Utku\Desktop\BilgeadamBoost\14.07.23 - Metotlar\Uygulama\Dizi\obj\Debug\net6.0\ref\Dizi.dll

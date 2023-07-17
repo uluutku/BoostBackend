@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\as\24\24\bin\Debug\net6.0\24.exe
+C:\Users\Utku\Desktop\as\24\24\bin\Debug\net6.0\24.deps.json
+C:\Users\Utku\Desktop\as\24\24\bin\Debug\net6.0\24.runtimeconfig.json
+C:\Users\Utku\Desktop\as\24\24\bin\Debug\net6.0\24.dll
+C:\Users\Utku\Desktop\as\24\24\bin\Debug\net6.0\24.pdb
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.AssemblyInfo.cs
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.dll
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\refint\24.dll
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.pdb
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\24.genruntimeconfig.cache
+C:\Users\Utku\Desktop\as\24\24\obj\Debug\net6.0\ref\24.dll
